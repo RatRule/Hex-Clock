@@ -1,0 +1,12 @@
+body {
+	font-family:'Serif';
+	margin-top:200px;
+	text-align:center;
+	color:white;
+	
+}
+#clock{
+	font-weight:1000;
+	
+	font-size:200px;
+}
